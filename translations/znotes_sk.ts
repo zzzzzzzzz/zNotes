@@ -475,10 +475,6 @@ Text licencie môžet nájsť v súbore LICENSE.</translation>
         <translation>verzia</translation>
     </message>
     <message>
-        <source>Copyright (c) 2010</source>
-        <translation type="obsolete">Copyright (c) 2010</translation>
-    </message>
-    <message>
         <location filename="../aboutDialog.cpp" line="17"/>
         <source>Copyright (c) 2011</source>
         <translation type="unfinished">Copyright (c) 2011</translation>
@@ -770,10 +766,6 @@ Text licencie môžet nájsť v súbore LICENSE.</translation>
         <location filename="../configdialog.ui" line="423"/>
         <source>Highlight text in notes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight links in notes</source>
-        <translation type="obsolete">Zvýrazniť odkazy v poznámkach</translation>
     </message>
     <message>
         <location filename="../configdialog.ui" line="402"/>

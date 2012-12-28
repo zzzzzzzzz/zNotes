@@ -17,40 +17,6 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Delete Note</source>
-        <translation type="obsolete">Видалення нотатки</translation>
-    </message>
-    <message>
-        <source>Do you realy want to delete note %1 ?</source>
-        <translation type="obsolete">Ви дійсно бажаєте видалити нотатку %1 ?</translation>
-    </message>
-    <message>
-        <source>Rename note</source>
-        <translation type="obsolete">Зміна імені нотатки</translation>
-    </message>
-    <message>
-        <source>New name:</source>
-        <translation type="obsolete">Нове ім&apos;я:</translation>
-    </message>
-    <message>
-        <source>Select notes directory</source>
-        <translation type="obsolete">Вибір каталогу із нотатками</translation>
-    </message>
-    <message>
-        <source>Move Notes</source>
-        <translation type="obsolete">Переміщення нотаток</translation>
-    </message>
-    <message>
-        <source>Notes path changed!
-Do you want to move your notes to new place ?</source>
-        <translation type="obsolete">Каталог із нотатками змінено!
-Перенести нотатки у інше місце?</translation>
-    </message>
-    <message>
-        <source>Notes path change</source>
-        <translation type="obsolete">Зміна місця збереження нотаток</translation>
-    </message>
-    <message>
         <location filename="../mainwindow.cpp" line="148"/>
         <source>You need restart application to get effect.</source>
         <translation>Необхідно перезапустити програму, щоб зміни вступили в силу.</translation>
@@ -457,10 +423,6 @@ Do you want to move your notes to new place ?</source>
         <translation>версія</translation>
     </message>
     <message>
-        <source>Copyright (c) 2010</source>
-        <translation type="obsolete">Copyright (c) 2010</translation>
-    </message>
-    <message>
         <location filename="../aboutDialog.cpp" line="17"/>
         <source>Copyright (c) 2011</source>
         <translation type="unfinished">Copyright (c) 2011</translation>
@@ -692,14 +654,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <translation></translation>
     </message>
     <message>
-        <source>Scan for new files in directory every </source>
-        <translation type="obsolete">Пошук нових файлів у каталозі кожні</translation>
-    </message>
-    <message>
-        <source> ms</source>
-        <translation type="obsolete"> мс</translation>
-    </message>
-    <message>
         <location filename="../configdialog.ui" line="36"/>
         <source>Tabs position:</source>
         <translation>Розташування вкладок:</translation>
@@ -818,10 +772,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <location filename="../configdialog.ui" line="423"/>
         <source>Highlight text in notes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight links in notes</source>
-        <translation type="obsolete">Підсвічувати посилання і тексті нотаток</translation>
     </message>
     <message>
         <location filename="../configdialog.ui" line="402"/>

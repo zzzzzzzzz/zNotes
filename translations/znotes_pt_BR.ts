@@ -32,40 +32,6 @@
         <translation>Mostrar Barra de Ferramentas</translation>
     </message>
     <message>
-        <source>Delete Note</source>
-        <translation type="obsolete">Excluir Nota</translation>
-    </message>
-    <message>
-        <source>Do you realy want to delete note %1 ?</source>
-        <translation type="obsolete">Você realmente deseja excluir a nota %1?</translation>
-    </message>
-    <message>
-        <source>Rename note</source>
-        <translation type="obsolete">Renomear nota</translation>
-    </message>
-    <message>
-        <source>New name:</source>
-        <translation type="obsolete">Novo nome:</translation>
-    </message>
-    <message>
-        <source>Select notes directory</source>
-        <translation type="obsolete">Selecionar diretório de notas</translation>
-    </message>
-    <message>
-        <source>Move Notes</source>
-        <translation type="obsolete">Mover Notas</translation>
-    </message>
-    <message>
-        <source>Notes path changed!
-Do you want to move your notes to new place ?</source>
-        <translation type="obsolete">Caminho das notas alterado!
-Você realmente deseja mover suas notas para o novo lugar?</translation>
-    </message>
-    <message>
-        <source>Notes path change</source>
-        <translation type="obsolete">Alterar caminho das notas</translation>
-    </message>
-    <message>
         <location filename="../mainwindow.cpp" line="148"/>
         <source>You need restart application to get effect.</source>
         <translation>Você precisa reiniciar o programa para que se tenha efeito.</translation>
@@ -505,10 +471,6 @@ O texto da licença pode ser encontrado no arquivo LICENSE.</translation>
         <translation>Versão</translation>
     </message>
     <message>
-        <source>Copyright (c) 2010</source>
-        <translation type="obsolete">Copyright (c) 2010</translation>
-    </message>
-    <message>
         <location filename="../aboutDialog.cpp" line="17"/>
         <source>Copyright (c) 2011</source>
         <translation>Copyright (c) 2011</translation>
@@ -682,14 +644,6 @@ O texto da licença pode ser encontrado no arquivo LICENSE.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <source>Scan for new files in directory every </source>
-        <translation type="obsolete">Verificar se há novos arquivos no diretório a cada </translation>
-    </message>
-    <message>
-        <source> ms</source>
-        <translation type="obsolete"> ms</translation>
-    </message>
-    <message>
         <location filename="../configdialog.ui" line="36"/>
         <source>Tabs position:</source>
         <translation>Posição das abas:</translation>
@@ -808,10 +762,6 @@ O texto da licença pode ser encontrado no arquivo LICENSE.</translation>
         <location filename="../configdialog.ui" line="423"/>
         <source>Highlight text in notes</source>
         <translation>Destacar texto nas notas</translation>
-    </message>
-    <message>
-        <source>Highlight links in notes</source>
-        <translation type="obsolete">Destacar links nas notas</translation>
     </message>
     <message>
         <location filename="../configdialog.ui" line="402"/>

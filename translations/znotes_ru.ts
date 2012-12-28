@@ -17,26 +17,6 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <source>Delete Note</source>
-        <translation type="obsolete">Удаление заметки</translation>
-    </message>
-    <message>
-        <source>Do you realy want to delete note %1 ?</source>
-        <translation type="obsolete">Вы действительно хотите удалить заметку %1 ?</translation>
-    </message>
-    <message>
-        <source>Rename note</source>
-        <translation type="obsolete">Переименование заметки</translation>
-    </message>
-    <message>
-        <source>New name:</source>
-        <translation type="obsolete">Новое имя:</translation>
-    </message>
-    <message>
-        <source>Select notes directory</source>
-        <translation type="obsolete">Выбор каталога с заметками</translation>
-    </message>
-    <message>
         <location filename="../mainwindow.cpp" line="147"/>
         <source>Settings changed</source>
         <translation>Произошло изменение настроек</translation>
@@ -59,91 +39,9 @@ You can add new commands in preferences.</source>
         <translation>Редактировать список команд</translation>
     </message>
     <message>
-        <source>zNotes - about</source>
-        <translation type="obsolete">О программе zNotes</translation>
-    </message>
-    <message>
-        <source>zNotes
-by Peter Savichev (proton)
-psavichev@gmail.com
-2009</source>
-        <translation type="obsolete">zNotes
-Автор: Савичев Петр (proton)
-psavichev@gmail.com
-2009г.</translation>
-    </message>
-    <message>
-        <source>zNotes %1
-by Peter Savichev (proton)
-psavichev@gmail.com
-2009</source>
-        <translation type="obsolete">zNotes %1
-Автор: Савичев Петр (proton)
-psavichev@gmail.com
-2009г.</translation>
-    </message>
-    <message>
-        <source>Move Notes</source>
-        <translation type="obsolete">Перемещение заметок</translation>
-    </message>
-    <message>
-        <source>Notes path changed!
-Do you want to move your notes to new place ?</source>
-        <translation type="obsolete">Каталог с заметками изменен!
-Перенести заметки в новое место?</translation>
-    </message>
-    <message>
-        <source>Notes path change</source>
-        <translation type="obsolete">Изменение места хранения заметок</translation>
-    </message>
-    <message>
         <location filename="../mainwindow.cpp" line="148"/>
         <source>You need restart application to get effect.</source>
         <translation>Необходимо перезапустить приложение, чтобы изменения вступили в силу.</translation>
-    </message>
-    <message>
-        <source>Commands</source>
-        <translation type="obsolete">Комманды</translation>
-    </message>
-    <message>
-        <source>Create new note</source>
-        <translation type="obsolete">Новая заметка</translation>
-    </message>
-    <message>
-        <source>Remove this note</source>
-        <translation type="obsolete">Удалить заметку</translation>
-    </message>
-    <message>
-        <source>Rename this note</source>
-        <translation type="obsolete">Пререименовать заметку</translation>
-    </message>
-    <message>
-        <source>Previous note</source>
-        <translation type="obsolete">Предыдущая заметка</translation>
-    </message>
-    <message>
-        <source>Next note</source>
-        <translation type="obsolete">Следующая заметка</translation>
-    </message>
-    <message>
-        <source>Copy this note to clipboard</source>
-        <translation type="obsolete">Скопировать содержимое в буффер обмена</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation type="obsolete">Настройки</translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation type="obsolete">Информация</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Поиск</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="obsolete">Выход</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="306"/>
@@ -156,14 +54,6 @@ Do you want to move your notes to new place ?</source>
         <location filename="../mainwindow.cpp" line="533"/>
         <source>Hide</source>
         <translation>Скрыть</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="obsolete">О программе</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">Выход</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="17"/>
@@ -266,10 +156,6 @@ Do you want to move your notes to new place ?</source>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>Select notes directory</source>
-        <translation type="obsolete">Выбор каталога с заметками</translation>
-    </message>
     <message>
         <location filename="../toolbaraction.h" line="44"/>
         <source>Separator</source>
@@ -441,14 +327,6 @@ Do you want to move your notes to new place ?</source>
             <numerusform>%n часов</numerusform>
         </translation>
     </message>
-    <message numerus="yes">
-        <source>%n sec(s)</source>
-        <translation type="obsolete">
-            <numerusform>%n секунда</numerusform>
-            <numerusform>%n секунды</numerusform>
-            <numerusform>%n секунд</numerusform>
-        </translation>
-    </message>
     <message>
         <location filename="../notelist.cpp" line="21"/>
         <source>Text Note</source>
@@ -497,21 +375,6 @@ Do you want to move your notes to new place ?</source>
     </message>
 </context>
 <context>
-    <name>ScriptModel</name>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Название</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation type="obsolete">Файл</translation>
-    </message>
-    <message>
-        <source>Icon</source>
-        <translation type="obsolete">Значок</translation>
-    </message>
-</context>
-<context>
     <name>TodoNote</name>
     <message>
         <location filename="../note_todo.cpp" line="64"/>
@@ -557,14 +420,6 @@ Do you want to move your notes to new place ?</source>
         <location filename="../aboutDialog.cpp" line="16"/>
         <source>version</source>
         <translation>версия</translation>
-    </message>
-    <message>
-        <source>Copyright (c) 2009</source>
-        <translation type="obsolete">Copyright (c) 2009</translation>
-    </message>
-    <message>
-        <source>Copyright (c) 2010</source>
-        <translation type="obsolete">Copyright (c) 2010</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="17"/>
@@ -697,17 +552,9 @@ Do you want to move your notes to new place ?</source>
         <translation>Сделать выделенный текст подчеркнутым</translation>
     </message>
     <message>
-        <source>Search in the note&apos;s text</source>
-        <translation type="obsolete">Поиск в тексте заметок</translation>
-    </message>
-    <message>
         <location filename="../aboutDialog.cpp" line="79"/>
         <source>Exit program</source>
         <translation>Выход из программы</translation>
-    </message>
-    <message>
-        <source>All icons from Oxygen project</source>
-        <translation type="obsolete">Все иконки взяты из проекта Oxygen</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="45"/>
@@ -802,10 +649,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <translation>Запуск свернутым</translation>
     </message>
     <message>
-        <source>Hide toolbar</source>
-        <translation type="obsolete">Скрыть панель инструментов</translation>
-    </message>
-    <message>
         <location filename="../configdialog.ui" line="116"/>
         <source>Hide window&apos;s frame</source>
         <translation>Окно без рамок</translation>
@@ -816,10 +659,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <translation>Поверх всех окон</translation>
     </message>
     <message>
-        <source>Use custom language</source>
-        <translation type="obsolete">Использовать нестандартный язык:</translation>
-    </message>
-    <message>
         <location filename="../configdialog.ui" line="364"/>
         <source>Font:</source>
         <translation>Шрифт:</translation>
@@ -828,10 +667,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <location filename="../configdialog.ui" line="380"/>
         <source>The quick brown fox jumps over the lazy dog.</source>
         <translation>Съешь ещё этих мягких французских булок, да выпей чаю.</translation>
-    </message>
-    <message>
-        <source>Eat more of these soft French loaves and drink tea.</source>
-        <translation type="obsolete">Съешь еще этих мягких французских булок, да выпей чаю.</translation>
     </message>
     <message>
         <location filename="../configdialog.ui" line="174"/>
@@ -852,14 +687,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <location filename="../configdialog.ui" line="191"/>
         <source>Scripts</source>
         <translation>Скрипты</translation>
-    </message>
-    <message>
-        <source>Scan for new files in directory every </source>
-        <translation type="obsolete">Поиск новых файлов в каталоге каждые </translation>
-    </message>
-    <message>
-        <source> ms</source>
-        <translation type="obsolete">мс</translation>
     </message>
     <message>
         <location filename="../configdialog.ui" line="36"/>
@@ -937,10 +764,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <translation>Подсвечивать текст в заметках</translation>
     </message>
     <message>
-        <source>Highlight links in notes</source>
-        <translation type="obsolete">Подсвечивать ссылки в тексте заметок</translation>
-    </message>
-    <message>
         <location filename="../configdialog.ui" line="402"/>
         <source>Open links (with pressed CTRL)</source>
         <translation>Открывать ссылки (при зажатом CTRL)</translation>
@@ -949,54 +772,6 @@ The text of the license can can be found in the file LICENSE.</source>
         <location filename="../configdialog.ui" line="409"/>
         <source>Convert rich text insertions to plain text in HTML notes</source>
         <translation>Убирать форматирование у скопированного текста при вставке в HTML заметку</translation>
-    </message>
-    <message>
-        <source>Hide edit section</source>
-        <translation type="obsolete">Скрыть секцию редактирования</translation>
-    </message>
-    <message>
-        <source>Hide move section</source>
-        <translation type="obsolete">Скрыть  навигационную секцию</translation>
-    </message>
-    <message>
-        <source>Hide copy section</source>
-        <translation type="obsolete">Скрыть секцию копирования</translation>
-    </message>
-    <message>
-        <source>Hide setup section</source>
-        <translation type="obsolete">Скрыть секцию настройки</translation>
-    </message>
-    <message>
-        <source>Hide run section</source>
-        <translation type="obsolete">Скрыть секцию запуска скриптов</translation>
-    </message>
-    <message>
-        <source>Hide exit section</source>
-        <translation type="obsolete">Скрыть секцию выхода</translation>
-    </message>
-    <message>
-        <source>Rename note</source>
-        <translation type="obsolete">Переименование заметки</translation>
-    </message>
-    <message>
-        <source>Previous note</source>
-        <translation type="obsolete">Предыдущая заметка</translation>
-    </message>
-    <message>
-        <source>Next note</source>
-        <translation type="obsolete">Следующая заметка</translation>
-    </message>
-    <message>
-        <source>Commands</source>
-        <translation type="obsolete">Комманды</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Поиск</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="obsolete">Выход</translation>
     </message>
     <message>
         <location filename="../configdialog.cpp" line="154"/>
