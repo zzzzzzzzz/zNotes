@@ -472,8 +472,8 @@ O texto da licença pode ser encontrado no arquivo LICENSE.</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="17"/>
-        <source>Copyright (c) 2011</source>
-        <translation>Copyright (c) 2011</translation>
+        <source>Copyright (c) 2013</source>
+        <translation>Copyright (c) 2013</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="18"/>

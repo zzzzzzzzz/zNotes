@@ -466,7 +466,7 @@ The text of the license can can be found in the file LICENSE.</source>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="17"/>
-        <source>Copyright (c) 2011</source>
+        <source>Copyright (c) 2013</source>
         <translation></translation>
     </message>
     <message>

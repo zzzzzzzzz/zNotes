@@ -424,8 +424,8 @@ Do you want to move your notes to new place ?</source>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="17"/>
-        <source>Copyright (c) 2011</source>
-        <translation type="unfinished">Copyright (c) 2011</translation>
+        <source>Copyright (c) 2013</source>
+        <translation type="unfinished">Copyright (c) 2013</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="18"/>

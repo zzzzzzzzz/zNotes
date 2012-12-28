@@ -423,8 +423,8 @@ Chcete své poznámky přesunout na nové místo?</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="17"/>
-        <source>Copyright (c) 2011</source>
-        <translation>Autorské právo (c) 2011</translation>
+        <source>Copyright (c) 2013</source>
+        <translation>Autorské právo (c) 2013</translation>
     </message>
     <message>
         <location filename="../aboutDialog.cpp" line="18"/>
